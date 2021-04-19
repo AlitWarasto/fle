@@ -1,0 +1,66 @@
+/*
+app style css for fledigital.com
+version 1.0
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
+
+.cOrange{color: orange;}
+.cRed{color: red;}
+.cWhite{color: seashell !important;}
+.bRedOld{background-color: #b70000;}
+.bOrange{background-color: orange;}
+.btnOrange{background-color: #f90;}
+.fs20{
+  font-size: 135%;
+  font-weight: 700;
+}
+.fs25{
+  font-size: 145%;
+  font-weight: 700;
+}
+.fs30{
+  font-size: 2.4rem;
+  line-height: 2.4rem;
+}
+.lh4{line-height: 4rem;}
+.fsi{font-style: italic;}
+.pt6{padding-top: 6rem;}
+.pb6{padding-bottom: 6rem;}
+.navbar{
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  z-index: 2;
+  background-color: transparent;
+}
+.dLogo{
+  width: 70%;
+  height: 65px;
+}
+.aLogo img{
+  max-height: 100%;
+}
+.navbar-toggler{
+  border: none;
+}
+.navbar-toggler-icon{
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
+}
+#s1{
+  background: linear-gradient(225deg, rgba(255,153,0,1) 0%, rgba(183,0,0,1) 100%);;
+}
+.s1rc img{
+  object-fit: none;
+  height: 100%;
+  filter: blur(2px);
+  object-position: bottom;
+}
+.s1rc span{
+  position: absolute;
+  z-index: 2;
+  bottom: 6.5rem;
+  right: 50%;
+  transform: translateX(50%);
+  border-radius: 30px 30px 30px 30px;
+  padding: 1rem 2rem;
+  box-shadow: 0 11px 30px -9px rgb(209 73 147 / 13%);
+}
