@@ -4,6 +4,10 @@
 */
 
 $(document).ready(function(){
+	/*LOADer*/
+	$(window).on('load',function(){
+  	$(".loader").fadeOut(1000);
+	});
 	/*Initialize Swiper*/
 	var swiperWA = new Swiper('#sWA', {
 		slidesPerView: 3,

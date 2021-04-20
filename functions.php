@@ -8,53 +8,36 @@ $themeurl = get_bloginfo('template_url');
 /*=== Mobile View Detection ===*/
 require get_template_directory().'/inc/md/Mobile_Detect.php';
 
-$detect = new Mobile_Detect; #mobile detect#
-if ( $detect->isMobile() && !$detect->isTablet() ){
-    function load_stylesheets(){
+function load_stylesheets(){
+    wp_register_style('bootstrap', get_template_directory_uri(). '/assets/css/bootstrap.min.css', '',4.0,'all');
+    wp_register_style('fontawesome', get_template_directory_uri(). '/assets/fa/css/fontawesome.min.css', '',5.1,'all');
+    wp_register_style('swiper', get_template_directory_uri(). '/assets/css/swiper-bundle.min.css', '',3.0,'all');
+    wp_enqueue_style('bootstrap');
+    wp_enqueue_style('swiper');
+    wp_enqueue_style('fontawesome');
+    $detect = new Mobile_Detect; #mobile detect#
+    if ( $detect->isMobile() && !$detect->isTablet() ){
         wp_register_style('appcssm', get_template_directory_uri(). '/assets/css/appm.css', '',0.1,'all');
-        wp_register_style('bootstrap', get_template_directory_uri(). '/assets/css/bootstrap.min.css', '',4.0,'all');
-        /**/
-        wp_enqueue_style('bootstrap');
         wp_enqueue_style('appcssm');
-    }
-    add_action('wp_enqueue_scripts','load_stylesheets',1);
-    function load_javascript(){
-        wp_register_script('jquery351', get_template_directory_uri(). '/assets/js/jquery351.js','', 3.5, true);
-        wp_register_script('bootstrap', get_template_directory_uri(). '/assets/js/bootstrap.min.js','', 4.0, true);
-        wp_register_script('appjs', get_template_directory_uri(). '/assets/js/appm.js','',0.1, true);
-        wp_enqueue_script('jquery351');
-        wp_enqueue_script('bootstrap');
-        wp_enqueue_script('appjsm');
-    }
-    add_action('wp_enqueue_scripts', 'load_javascript');
-} else {
-    function load_stylesheets(){
+    }else{
         wp_register_style('appcss', get_template_directory_uri(). '/assets/css/app.css', '',0.1,'all');
-        wp_register_style('bootstrap', get_template_directory_uri(). '/assets/css/bootstrap.min.css', '',4.0,'all');
-        wp_register_style('fontawesome', get_template_directory_uri(). '/assets/fa/css/fontawesome.min.css', '',5.1,'all');
-        wp_register_style('swiper', get_template_directory_uri(). '/assets/css/swiper-bundle.min.css', '',3.0,'all');
-        /**/
-        wp_enqueue_style('bootstrap');
-        wp_enqueue_style('swiper');
-        wp_enqueue_style('fontawesome');
         wp_enqueue_style('appcss');
     }
-    add_action('wp_enqueue_scripts','load_stylesheets',1);
-    function load_javascript(){
-        wp_register_script('jquery351', get_template_directory_uri(). '/assets/js/jquery351.js','', 3.5, true);
-        wp_register_script('bootstrap', get_template_directory_uri(). '/assets/js/bootstrap.min.js','', 4.0, true);
-        wp_register_script('fontawesome', get_template_directory_uri(). '/assets/fa/js/fontawesome.min.js','', 4.0, true);
-        wp_register_script('swiper', get_template_directory_uri(). '/assets/js/swiper-bundle.min.js','jquery', 3, true);
-        wp_register_script('appjs', get_template_directory_uri(). '/assets/js/app.js','',0.1, true);
-        wp_enqueue_script('jquery351');
-        wp_enqueue_script('bootstrap');
-        wp_enqueue_script('fontawesome');
-        wp_enqueue_script('swiper');
-        wp_enqueue_script('appjs');
-    }
-    add_action('wp_enqueue_scripts', 'load_javascript');
 }
-
+add_action('wp_enqueue_scripts','load_stylesheets',1);
+function load_javascript(){
+    wp_register_script('jquery351', get_template_directory_uri(). '/assets/js/jquery351.js','', 3.5, true);
+    wp_register_script('bootstrap', get_template_directory_uri(). '/assets/js/bootstrap.min.js','', 4.0, true);
+    wp_register_script('fontawesome', get_template_directory_uri(). '/assets/fa/js/fontawesome.min.js','', 4.0, true);
+    wp_register_script('swiper', get_template_directory_uri(). '/assets/js/swiper-bundle.min.js','jquery', 3, true);
+    wp_register_script('appjs', get_template_directory_uri(). '/assets/js/app.js','',0.1, true);
+    wp_enqueue_script('jquery351');
+    wp_enqueue_script('bootstrap');
+    wp_enqueue_script('fontawesome');
+    wp_enqueue_script('swiper');
+    wp_enqueue_script('appjs');
+}
+add_action('wp_enqueue_scripts', 'load_javascript');
 
 function fle_logo() {
     $defaults = array(

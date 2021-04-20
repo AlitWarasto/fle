@@ -1,15 +1,48 @@
 /*
-app style css for fledigital.com
+app style mobile css for fledigital.com
 version 1.0
 */
+
+.loader{
+  width: 100%;
+  height: 100%;
+  background-color: #f8f9fa;
+  position: fixed;
+  z-index: 99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700;900&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #26394d;
+  padding: 0px;
+  margin: 0;
+}
+
+.fPoppins{
+  font-family: 'Poppins', sans-serif;
+}
 
 .cOrange{color: orange;}
 .cRed{color: red;}
 .cWhite{color: seashell !important;}
+.cGrey{color: #7a7a7a;}
+
 .bRedOld{background-color: #b70000;}
-.bOrange{background-color: orange;}
+.bOrange{background-color: #e2a200;}
+.bGrey{background-color: #e9ecef;}
+
 .btnOrange{background-color: #f90;}
+
+.fs18{
+  font-size: 18px;
+  line-height: 1.9rem;
+}
 .fs20{
   font-size: 135%;
   font-weight: 700;
@@ -18,19 +51,17 @@ version 1.0
   font-size: 145%;
   font-weight: 700;
 }
-.fs30{
-  font-size: 2.4rem;
-  line-height: 2.4rem;
-}
+.fs30{font-size: 3rem;}
 .lh4{line-height: 4rem;}
 .fsi{font-style: italic;}
+
 .pt6{padding-top: 6rem;}
 .pb6{padding-bottom: 6rem;}
+
 .navbar{
   font-family: 'Roboto', sans-serif;
   position: absolute;
   z-index: 2;
-  background-color: transparent;
 }
 .dLogo{
   width: 70%;
@@ -45,8 +76,11 @@ version 1.0
 .navbar-toggler-icon{
   filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
 }
-#s1{
-  background: linear-gradient(225deg, rgba(255,153,0,1) 0%, rgba(183,0,0,1) 100%);;
+.br{
+    font-size: 27px;
+}
+#s1 h1{
+  line-height: 2.7rem;
 }
 .s1rc img{
   object-fit: none;
@@ -64,3 +98,261 @@ version 1.0
   padding: 1rem 2rem;
   box-shadow: 0 11px 30px -9px rgb(209 73 147 / 13%);
 }
+.btnG{
+  padding: 10px 20px;
+  font-size: larger;
+  margin-bottom: 15px;
+  margin-top: -65px;
+}
+.s2ul{
+  list-style: none;
+}
+.s2ullisp1{
+  position: absolute;
+  top: 7px;
+  color: crimson;
+}
+.s2ullisp2{
+  margin-left: 25px;
+  display: block;
+}
+
+/*Commentator*/
+.team-boxed {
+  color:#313437;
+  background-color:#eef4f7;
+}
+.team-boxed p {
+  color:#7d8285;
+}
+.team-boxed h2 {
+  font-weight:bold;
+  margin-bottom:40px;
+  padding-top:40px;
+  color:inherit;
+}
+@media (max-width:767px) {
+  .team-boxed h2 {
+    margin-bottom:25px;
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+.team-boxed .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto;
+}
+.team-boxed .intro p {
+  margin-bottom:0;
+}
+.team-boxed .item {
+  text-align:center;
+}
+.team-boxed .item .box {
+  text-align:center;
+  padding:30px;
+  background-color:#fff;
+  margin-bottom:30px;
+  border-radius: 2%;
+}
+.team-boxed .item .name {
+  font-weight:bold;
+  margin-top:28px;
+  margin-bottom:8px;
+  color:inherit;
+}
+.team-boxed .item .title {
+  text-transform:uppercase;
+  font-weight:bold;
+  color:#d0d0d0;
+  letter-spacing:2px;
+  font-size:13px;
+}
+.team-boxed .item .description {
+  font-size:15px;
+  margin-top:15px;
+  margin-bottom:20px;
+}
+.team-boxed .item img {
+  max-width:160px;
+}
+.team-boxed .social {
+  font-size:18px;
+  color:#a2a8ae;
+}
+.team-boxed .social a {
+  color:inherit;
+  margin:0 10px;
+  display:inline-block;
+  opacity:0.7;
+}
+.team-boxed .social a:hover {
+  opacity:1;
+}
+
+/*Swiper*/
+.swiper-container {
+  width: 100%;
+  height: 530px;
+}
+.swiper-wrapper{
+  height: 500px;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.s5sw img{
+  object-fit: none;
+  object-position: center;
+  height: 100%;
+}
+.s7sw .swiper-slide figure{
+  max-height: 100%;
+}
+.s7sw .swiper-slide figure img{
+  display: block;
+}
+.swiper-pagination{
+  margin-bottom: -1rem;
+}
+.swiper-pagination-bullet-active{
+  background-color: red;
+}
+#sWA{
+  width: 100%;
+  height: 745px;
+}
+#sWA .swiper-wrapper{
+  height: 100%;
+}
+.s7ssd{
+  height: fit-content;
+}
+.box{
+  padding: 30px;
+  background-color: #fff;
+  margin-bottom: 30px;
+  border-radius: 2%;
+}
+.s7ul,.s9ul,.s10ul{
+  list-style: none;
+}
+.s7ul > li > span:nth-child(1){
+  font-size: 1.2rem;
+  top: 3px;
+}
+.hc{
+  color: #7a7a7a;
+  font-family: "Poppins",sans-serif;
+  font-size: 43px;
+  font-weight: bold;
+  text-decoration: line-through;
+  line-height: 2em;
+  letter-spacing: 1px;
+  text-shadow: 0 0 10px rgba(0,0,0,.3);
+}
+.hd{
+  color: #d80000;
+  text-decoration: none;
+  text-shadow: none;
+}
+#s8 div img{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 0;
+}
+.s9ul li {
+  display: block;
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: none;
+  font-style: normal;
+  text-decoration: none;
+  line-height: 1.5em;
+}
+.s9ul li span:nth-child(1){
+  top: 0;
+}
+.s9ul li span:nth-child(2){
+  color: rgba(38,57,77,.8);
+  padding-left: 24px;
+  display: block;
+}
+.box2 {
+  box-shadow: 1px 8px 20px 0px rgb(44 47 60 / 13%);
+  transition: background .3s , border .3s , border-radius .3s , box-shadow .3s;
+  border-radius: 2%;
+}
+#s9 .box2 p{
+  margin-bottom: 0;
+}
+#s10{
+  background-color: #eff5f3;
+}
+#s10 .boxB{
+  border-style: dashed;
+  border-radius: 15px;
+  border-color: rgb(0 123 255 / 25%);
+  border-width: 1px;
+}
+#s10 .box2{
+  background-color: white;
+}
+footer{
+  background-color: #eff5f3;
+}
+.btnWA{
+  position: fixed;
+  z-index: 9;
+  bottom: 95px;
+  right: 15px;
+}
+.btnWA .btn {
+  border-radius: 50%;
+  position: relative;
+  height: 45px;
+  width: 45px;
+  box-shadow: 0 0 0 0 #28a745;
+  transform: scale(1);
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(97, 206, 112, 0.7);
+  }
+
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(97, 206, 112, 0);
+  }
+
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(97, 206, 112, 0);
+  }
+}
+.btnWA .btn span .fa-whatsapp {
+  position: absolute;
+  z-index: 3;
+  right: 50%;
+  top: 50%;
+  transform: translate(50%, -50%);
+} 
