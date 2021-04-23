@@ -50,4 +50,7 @@ $(document).ready(function(){
 	    disableOnInteraction: true,
 	  },
 	});
+	$('.removeNode').contents().filter(function() {
+    return this.nodeType === 3;
+	}).remove();
 });

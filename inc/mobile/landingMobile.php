@@ -14,10 +14,10 @@ include(TEMPLATEPATH.'/header.php');
 if(have_posts()) : while(have_posts()) : the_post();
   the_content();
 endwhile; endif;
-?><!---->
+?><!--
 <div class="loader">
   <div class="spinner-border text-danger"></div>
-</div>
+</div>-->
 <style>
   #s1 {
     background-image:linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%),url("<?php echo $siteurl;?>/wp-content/uploads/2021/04/gabung-bersama-fle-digital-sekarang.jpg");
@@ -225,7 +225,7 @@ endwhile; endif;
       </div>
       <div class="mt-5">
         <div class="col-md-6 mb-5">
-          <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/get-more-with-fle-what-do-we-got-scaled.jpg">
+          <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/sale.jpg">
           <h3 class="fPoppins text-center font-weight-bold mt-3">HARGA SPESIAL</h3>
           <h3 class="col fPoppins text-center font-weight-bold mt-1">Pra - Launching!</h3>
         </div>
@@ -234,7 +234,7 @@ endwhile; endif;
           <ul class="s7ul"><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span> <span class="fs18 s2ullisp2">Logika manajemen keuangan untuk mengambil keputusan yang TEPAT dalam Bisnis Anda</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span> <span class="fs18 s2ullisp2">Teknik bikin laporan keuangan yang MUDAH dan CEPAT. Hanya 15 menit setiap hari</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span> <span class="fs18 s2ullisp2">Strategi membangun Bisnis yang SEHAT dan KUAT</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span> <span class="fs18 s2ullisp2">Rahasia AKSELERASI BISNIS yang benar dan terbukti berhasil</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span> <span class="fs18 s2ullisp2">BAHASA INVESTASI untuk meyakinkan investor</span></li></ul>
           <hr>
           <h1 class="hc text-center">Rp 990.000,-</h1>
-          <p class="hd hc text-center">Rp. 590.000,-</p>
+          <p class="hd hc text-center">Rp 590.000,-</p>
           <a class="d-flex justify-content-center" href="https://member.fledigital.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
           <span class="d-flex justify-content-center">
             <img class="col-3 img-fluid mt-3" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/logo-bca.jpg" style="opacity: .58;">

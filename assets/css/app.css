@@ -81,6 +81,14 @@ body{
   padding: 1rem 2rem;
   box-shadow: 0 11px 30px -9px rgb(209 73 147 / 13%);
 }
+.redTriangle {
+  width: 0; 
+  height: 0; 
+  border-top: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  border-left: 60px solid red;
+  transform: rotate(-90deg);
+}
 .btnG{
   padding: 10px 20px;
   font-size: xx-large;
@@ -302,5 +310,5 @@ footer{
   position: fixed;
   z-index: 9;
   bottom: 65px;
-  left: 15px;
+  right: 15px;
 }

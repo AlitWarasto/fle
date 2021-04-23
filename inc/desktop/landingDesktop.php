@@ -34,16 +34,34 @@ endwhile; endif;
   }
 </style>
 <section id="s1" class="pt-5">
+  <div class="redTriangle"></div>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <p class="text-left h5 cOrange fs20 fsi pt6">Cara Belajar Bisnis Terbaru 2021</p>
-        <p class="text-left h4 cWhite fs25 fsi pt-1">FINANCIAL LITERACY EXPRESS</p>
-        <p class=" cWhite font-weight-bold fs30 pt-3 pb6">Kuasai, Rahasia Keuangan
-          Bisnis Anda<br>
-          <span class="cOrange">Hanya 1,5 Jam</span><br>
-          Pasti Bisa!!</p>
+        <div class="d-flex justify-content-between pt6">
+          <div class="col-md-6">
+            <p class="text-right">
+              <span class="h2 font-weight-bolder cWhite">Cara Belajar Bisnis</span><br>
+              <span class="h4 cWhite">Terbaru 2021</span>
+            </p>
+          </div>
+          <div class="col-md-6">
+            <p class="text-left cWhite fs25 fsi removeNode">
+              <span class="pt-3 pb-3 pl-3 pr-2 d-inline-block bRedOld">FINANCIAL LITERACY</span>
+              <span class="pt-3 pb-3 pr-3 pl-2 cOrange d-inline-block bRedOld">EXPRESS</span>
+            </p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <p class=" cWhite font-weight-bold fs30 text-center pt-3 pb6">
+            <span>Kuasai, Rahasia Keuangan Bisnis Anda</span><br>
+            <span class="cOrange">Hanya 1,5 Jam</span><br>
+            <span>Pasti Bisa!!</span>
+          </p>
+        </div>
+        <div class="d-flex justify-content-center">
           <a href="https://member.fledigital.com/product/ecourse-fle-digital/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
+        </div>
       </div>
     </div>
   </div>
@@ -222,7 +240,7 @@ endwhile; endif;
       </div>
       <div class="mt-5 row">
         <div class="col-md-6">
-          <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/get-more-with-fle-what-do-we-got-scaled.jpg">
+          <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/sale.jpg">
           <h3 class="fPoppins text-center font-weight-bold mt-3">HARGA SPESIAL</h3>
           <h3 class="col fPoppins text-center font-weight-bold mt-1">Pra - Launching!</h3>
         </div>
