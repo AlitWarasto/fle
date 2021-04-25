@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><?php echo $post->post_title. " | " . $sitename ?></title>
+	<title><?php echo $sitedesc." | ".$sitename ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://kit.fontawesome.com/ebf84d91a6.js" crossorigin="anonymous"></script>
 	<?php
@@ -38,11 +38,11 @@
     <div class="collapse navbar-collapse justify-content-end mt-3" id="navbarSupportedContent">
     <ul class="navbar-nav pl-3">
       <li class="nav-item active">
-        <a class="nav-link h4 cWhite" href="#">LOGIN <span class="sr-only">(current)</span></a>
+        <a class="nav-link h4 cWhite" href="https://member.fledigital.com/member-area/login/">LOGIN <span class="sr-only">(current)</span></a>
       </li>
       <li class="cWhite"><span class="br cRed">|</span></li>
       <li class="nav-item">
-        <a class="nav-link h4 cWhite" href="#">HUBUNGI KAMI</a>
+        <a class="nav-link h4 cWhite" href="https://api.whatsapp.com/send/?phone=628112633997">HUBUNGI KAMI</a>
       </li>
     </ul>
   </div>

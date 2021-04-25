@@ -67,9 +67,9 @@ endwhile; endif;
           </li>
           <li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-play" aria-hidden="true"></i> </span> <span class="h5 s2ullisp2">Omset meningkat tapi Keuntungan menipis?</span>
           </li>
-          <li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-play" aria-hidden="true"></i> </span> <span class="h5 s2ullisp2">tidak bisa menyusun Laporan Keuangan?</span>
+          <li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-play" aria-hidden="true"></i> </span> <span class="h5 s2ullisp2">Tidak bisa menyusun Laporan Keuangan?</span>
           </li>
-          <li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-play" aria-hidden="true"></i> </span> <span class="h5 s2ullisp2">uang Kas Bisnis anda sering defisit?</span>
+          <li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-play" aria-hidden="true"></i> </span> <span class="h5 s2ullisp2">Uang Kas Bisnis anda sering defisit?</span>
           </li>
         </ul>
       </div>
@@ -270,7 +270,7 @@ endwhile; endif;
     <div class="row">
       <h2 class="h3 col fPoppins font-weight-bolder text-center mb-5 mt-5">Kerugian jika Anda tidak segera belajar <br><span class="cRed">F.L.E Digital</span><br>sekarang juga</h2>
       <ul class="s9ul"><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Bisnis Anda sulit naik level, terjebak dalam zona UMKM bertahun-tahun</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Pusing menjalani Bisnis karena menghadapi masalah yang sama berulang-ulang</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Pesaing Bisnis Anda akan tumbuh lebih cepat dan lebih banyak</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Anda bisa kehilangan peluang bisnis, Waktu tidak kembali dan Peluang tidak datang dua kali</span></li></ul>
-      <h2 class="col-md-12 fPoppins font-weight-bolder text-center mb-5 mt-2">Bagi Anda Yang <span class="cRed">Membeli Hari Ini</span>, Dapatkan Bonus Tambahan:</h2>
+      <h2 class="col-md-12 fPoppins font-weight-bolder text-center mb-5 mt-2">Bagi Anda Yang <span class="cRed">Bergabung Hari Ini</span>, Dapatkan Bonus Tambahan:</h2>
       <div class="d-flex flex-column align-items-center">
         <div class="col-10 box2 d-flex flex-column align-items-center mb-3 p-5">
           <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/5.png"></img></div>
