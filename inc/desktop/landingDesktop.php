@@ -47,8 +47,8 @@ endwhile; endif;
           </div>
           <div class="col-md-6">
             <p class="text-left cWhite fs25 fsi removeNode">
-              <span class="pt-3 pb-3 pl-3 pr-2 d-inline-block bRedOld">FINANCIAL LITERACY</span>
-              <span class="pt-3 pb-3 pr-3 pl-2 cOrange d-inline-block bRedOld">EXPRESS</span>
+              <span class="pt-3 pb-3 pl-3 pr-2 d-inline-block bRedOld">JAGO</span>
+              <span class="pt-3 pb-3 pr-3 pl-2 cOrange d-inline-block bRedOld">KEUANGAN</span>
             </p>
           </div>
         </div>
@@ -60,7 +60,7 @@ endwhile; endif;
           </p>
         </div>
         <div class="d-flex justify-content-center">
-          <a href="https://member.fledigital.com/product/ecourse-fle-digital/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
+          <a href="https://member.jagokeuangan.com/product/ecourse-fle-digital/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
         </div>
       </div>
     </div>
@@ -94,9 +94,9 @@ endwhile; endif;
 <section id="s3">
   <div class="container">
     <div class="row">
-      <h3 class="col-md-12 h1 font-weight-bolder cRed text-center mt-3 mb-3">Financial Literacy Express</h3>
+      <h3 class="col-md-12 h1 font-weight-bolder cRed text-center mt-3 mb-3">JAGO KEUANGAN</h3>
       <h4 class="col-md-12 h2 font-weight-bolder cGrey text-center mt-1 mb-1">Solusi Belajar Finance, KILAT!</h4>
-      <p class="col-md-12 h4 font-weight-bolder cGrey text-center mt-1 mb-3">Sekarang waktunya belajar <span class="cRed font-weight-bold">F.L.E Digital</span> <b>connected from anywhere</b></p>
+      <p class="col-md-12 h4 font-weight-bolder cGrey text-center mt-1 mb-3">Sekarang waktunya belajar <span class="cRed font-weight-bold">JAGO KEUANGAN</span> <b>connected from anywhere</b></p>
       <div class="col-md-4">
         <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/everywhere-learning-scaled.jpg">
         <div class="col-md-12">
@@ -114,8 +114,8 @@ endwhile; endif;
       <div class="col-md-4">
         <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/call-center-operator-answering-clients-company-with-tech-support_97712-198.jpg">
         <div class="col-md-12">
-          <p class="h5 cRed text-center mt-3"><b>Asisten F.L.E</b></p>
-          <p class="cGrey small">Jangan khawatir, Asisten F.L.E siap mendampingi Anda mengerjakan materi F.L.E Digital.</p>
+          <p class="h5 cRed text-center mt-3"><b>Asisten JAGO</b></p>
+          <p class="cGrey small">Jangan khawatir, Asisten JAGO siap mendampingi Anda mengerjakan materi KEUANGAN.</p>
         </div>
       </div>
     </div>
@@ -124,7 +124,7 @@ endwhile; endif;
 <section id="s4" class="bRedOld">
   <div class="container">
     <div class="row">
-      <h3 class="col-md-12 h3 font-weight-bolder cWhite text-center mt-5 mb-5">Mereka yang merekomendasikan F.L.E</h3>
+      <h3 class="col-md-12 h3 font-weight-bolder cWhite text-center mt-5 mb-5">Mereka yang merekomendasikan JAGO</h3>
       <div class="team-boxed">
         <div class="container">
           <div class="people bRedOld row">
@@ -132,21 +132,21 @@ endwhile; endif;
               <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/pakkoko.png">
                 <h3 class="name">Koko Hadiono</h3>
                 <p class="title">Former Top Management Mc Donald's Indonesia</p>
-                <p class="description">Buat rekan-rekan UMKM yang ingin tumbuh dan scaleup. Menguasai ilmu manajemen keuangan itu sangat penting. Pengusaha sukses itu pasti menguasai ilmu finance. Kabar baiknya F.L.E Digital kini bisa dipelajari cukup dari HP. Jauh lebih fleksibel, aplikatif, dan lebih cepat. Good luck!
+                <p class="description">Buat rekan-rekan UMKM yang ingin tumbuh dan scaleup. Menguasai ilmu manajemen keuangan itu sangat penting. Pengusaha sukses itu pasti menguasai ilmu finance. Kabar baiknya JAGO KEUANGAN kini bisa dipelajari cukup dari HP. Jauh lebih fleksibel, aplikatif, dan lebih cepat. Good luck!
               </div>
             </div>
             <div class="col-md-6 col-lg-4 item">
               <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/rendy-1.png">
                 <h3 class="name">Rendy Sipahutar</h3>
                 <p class="title">Manager PT. BUMA</p>
-                <p class="description">Online Learning F.L.E Digital ini keren, training finance untuk level manajemen jadi lebih efisien. Materinya mudah dipahami dengan cepat. Salah satu business skill yang harus dikuasai oleh profesional dan business owner. One of business skill you need to master.</p>
+                <p class="description">Online Learning JAGO KEUANGAN ini keren, training finance untuk level manajemen jadi lebih efisien. Materinya mudah dipahami dengan cepat. Salah satu business skill yang harus dikuasai oleh profesional dan business owner. One of business skill you need to master.</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 item">
               <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/adi.png">
                 <h3 class="name">Adi Widjaja</h3>
                 <p class="title">Investor Profesional</p>
-                <p class="description">Bisnis yang menarik adalah bisnis yang memiliki laporan keuangan. Salah satu parameter bisnis profesional itu memiliki laporan keuangan. Dan investor hanya tertarik kepada bisnis yang memiliki laporan keuangan. In God we trust, others use data. F.L.E Digital ini solusi bagi Anda yang ingin belajar manajemen keuangan bisnis Anda secara Express.</p>
+                <p class="description">Bisnis yang menarik adalah bisnis yang memiliki laporan keuangan. Salah satu parameter bisnis profesional itu memiliki laporan keuangan. Dan investor hanya tertarik kepada bisnis yang memiliki laporan keuangan. In God we trust, others use data. JAGO KEUANGAN ini solusi bagi Anda yang ingin belajar manajemen keuangan bisnis Anda secara Express.</p>
               </div>
             </div>
           </div>
@@ -175,7 +175,7 @@ endwhile; endif;
         <div class="swiper-pagination"></div>
       </div>
       <div class="col-md-12 mt-3">
-        <h6 class="cRed text-center"><b>FINANCIAL LITERACY EXPRESS</b></h6>
+        <h6 class="cRed text-center"><b>JAGO KEUANGAN</b></h6>
         <p class="text-center">Telah di ikuti 925+ UKM, Professional dan Corporation di Indonesia Diselenggarakan dalam bentuk workshop sejak tahun 2018</p>
       </div>
     </div>
@@ -184,7 +184,7 @@ endwhile; endif;
 <section id="s6">
   <div class="container">
     <div class="row">
-      <h3 class="col-md-12 text-center mt-3 mb-3 font-weight-bolder fPoppins">Untuk Siapa F.L.E Digital <span class="cRed">F.L.E Digital</span> ini dibuat?</h3>
+      <h3 class="col-md-12 text-center mt-3 mb-3 font-weight-bolder fPoppins">Untuk Siapa JAGO KEUANGAN <span class="cRed">JAGO KEUANGAN</span> ini dibuat?</h3>
       <div class="col-md-3">
         <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/mbak-cantik.jpg">
         <h5 class="text-center cGrey mt-2">Anda yang mengembangkan usaha</h5>
@@ -207,7 +207,7 @@ endwhile; endif;
 <section id="s7" class="bGrey">
   <div class="container">
     <div class="row">
-      <h3 class="col-md-12 text-center mt-3 mb-3 font-weight-bolder fPoppins">Cerita dari mereka yang sudah belajar <span class="cRed">F.L.E Digital</span></h3>
+      <h3 class="col-md-12 text-center mt-3 mb-3 font-weight-bolder fPoppins">Cerita dari mereka yang sudah belajar <span class="cRed">JAGO KEUANGAN</span></h3>
       <div id="sWA" class="swiper-container mt-3 mb-3">
         <div class="swiper-wrapper bGrey s7sw">
           <div class="swiper-slide">
@@ -250,7 +250,7 @@ endwhile; endif;
           <hr>
           <h1 class="hc text-center">Rp 990.000,-</h1>
           <p class="hd hc text-center">Rp. 590.000,-</p>
-          <a class="row justify-content-center" href="https://member.fledigital.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
+          <a class="row justify-content-center" href="https://member.jagokeuangan.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
           <span class="row justify-content-center">
             <img class="col-lg-3 img-fluid mt-5" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/logo-bca.jpg" style="opacity: .58;">
           </span>
@@ -263,7 +263,7 @@ endwhile; endif;
   <div class="container-xl">
     <div class="row">
       <div class="col-md-3 pt6 pb6">
-        <h3 class="h4 fPoppins font-weight-bolder cWhite text-center" style="line-height: 1.5em;">Berikut Alasan Kuat, Kenapa Anda Harus Bergabung dengan <br>F.L.E Digital Segera</h3>
+        <h3 class="h4 fPoppins font-weight-bolder cWhite text-center" style="line-height: 1.5em;">Berikut Alasan Kuat, Kenapa Anda Harus Bergabung dengan <br>JAGO KEUANGAN Segera</h3>
       </div>
       <div class="col-md-3 pt6 pb6">
         <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/Tanda-tanda-pengusaha-sukses-1.jpg"></img>
@@ -283,7 +283,7 @@ endwhile; endif;
 <section id="s9" class="pb6">
   <div class="container">
     <div class="row">
-      <h2 class="col fPoppins font-weight-bolder text-center mb-5 mt-5">Kerugian jika Anda tidak segera belajar <span class="cRed">F.L.E Digital</span> sekarang juga</h2>
+      <h2 class="col fPoppins font-weight-bolder text-center mb-5 mt-5">Kerugian jika Anda tidak segera belajar <span class="cRed">JAGO KEUANGAN</span> sekarang juga</h2>
       <ul class="s9ul"><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Bisnis Anda sulit naik level, terjebak dalam zona UMKM bertahun-tahun</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Pusing menjalani Bisnis karena menghadapi masalah yang sama berulang-ulang</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Pesaing Bisnis Anda akan tumbuh lebih cepat dan lebih banyak</span></li><li class="mt-1 mb-2 position-relative"> <span class="s2ullisp1 mr-1"> <i class="fa fa-times" aria-hidden="true"></i> </span> <span>Anda bisa kehilangan peluang bisnis, Waktu tidak kembali dan Peluang tidak datang dua kali</span></li></ul>
       <h2 class="col-md-12 fPoppins font-weight-bolder text-center mb-5 mt-2">Bagi Anda Yang <span class="cRed">Bergabung Hari Ini</span>, Dapatkan Bonus Tambahan:</h2>
       <div class="row justify-content-center">
@@ -321,7 +321,7 @@ endwhile; endif;
           <h3 class="h2 mt-5 mb-5 fPoppins text-center font-weight-bolder">HARGA SPESIAL <br><span class="cRed">Pra-Launching </span></h3>
           <h1 class="hc text-center">Rp 990.000,-</h1>
           <p class="hd hc text-center">Rp. 590.000,-</p>
-          <a class="row justify-content-center" href="https://member.fledigital.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
+          <a class="row justify-content-center" href="https://member.jagokeuangan.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
           <span class="row justify-content-center">
             <img class="col-lg-3 img-fluid mt-5" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/logo-bca.jpg" style="opacity: .58;">
           </span>
@@ -336,7 +336,7 @@ endwhile; endif;
             </div>
             <div class="col-md-12">
               <p class="text-center">Garansi Uang Kembali 100% Apabila Anda Tidak Paham pun Sudah Belajar Berkali-kali.
-  Kami menyediakan Asisten F.L.E yang membantu menjawab pertanyaan-pertanyaan Anda</p>
+  Kami menyediakan Asisten JAGO yang membantu menjawab pertanyaan-pertanyaan Anda</p>
             </div>
           </div>
         </div>
@@ -345,21 +345,21 @@ endwhile; endif;
         </div>
         <div class="row justify-content-center mb-5">
           <div class="col-md-5 box2 mr-4 pt-4 pb-4 mb-3">
-            <h6 class="fPoppins font-weight-bold">Apa itu Financial Literacy Express?</h6>
+            <h6 class="fPoppins font-weight-bold">Apa itu JAGO KEUANGAN?</h6>
             <hr>
-            <p class="">Financial Literacy Express adalah cara baru belajar manajemen keuangan bisnis dengan cepat dan mudah. Dirancang dengan metode dengar, baca, dan tulis agar kita
+            <p class="">JAGO KEUANGAN adalah cara baru belajar manajemen keuangan bisnis dengan cepat dan mudah. Dirancang dengan metode dengar, baca, dan tulis agar kita
   bisa menguasai manajemen keuangan dalam waktu singkat.</p>
           </div>
           <div class="col-md-5 box2 mr-4 pt-4 pb-4 mb-3">
             <h6 class="fPoppins font-weight-bold">Apakah saya akan bisa belajar dengan cepat?</h6>
             <hr>
-            <p class="">Ya, F.L.E Digital memiliki Asisten F.L.E yang bertugas membantu kita menyelesaikan materi-materi di dalamnya. Asisten F.L.E bisa dihubungi melalui chat via
+            <p class="">Ya, JAGO KEUANGAN memiliki Asisten JAGO yang bertugas membantu kita menyelesaikan materi-materi di dalamnya. Asisten JAGO bisa dihubungi melalui chat via
   Whatsapp untuk tanya jawab.</p>
           </div>
           <div class="col-md-5 box2 mr-4 pt-4 pb-4 mb-3">
-            <h6 class="fPoppins font-weight-bold">Apa itu F.L.E Digital?</h6>
+            <h6 class="fPoppins font-weight-bold">Apa itu JAGO KEUANGAN?</h6>
             <hr>
-            <p class="">F.L.E Digital adalah materi Financial Literacy Express yang  dapat dipelajari secara online dimanapun untuk menambah keahlian manajemen keuangan bisnis kita.</p>
+            <p class="">JAGO KEUANGAN adalah materi KEUANGAN yang  dapat dipelajari secara online dimanapun untuk menambah keahlian manajemen keuangan bisnis kita.</p>
           </div>
           <div class="col-md-5 box2 mr-4 pt-4 pb-4 mb-3">
             <h6 class="fPoppins font-weight-bold">Apakah kompatibel disemua perangkat?</h6>
@@ -367,9 +367,9 @@ endwhile; endif;
             <p class="">ya, kompatibel di semua perangkat.</p>
           </div>
           <div class="col-md-5 box2 mr-4 pt-4 pb-4 mb-3">
-            <h6 class="fPoppins font-weight-bold">Berlaku untuk berapa lama member F.L.E Digital?</h6>
+            <h6 class="fPoppins font-weight-bold">Berlaku untuk berapa lama member JAGO KEUANGAN?</h6>
             <hr>
-            <p class="">F.L.E Digital berlaku seumur hidup.</p>
+            <p class="">JAGO KEUANGAN berlaku seumur hidup.</p>
           </div>
           <div class="col-md-5 box2 mr-4 pt-4 pb-4 mb-3">
             <h6 class="fPoppins font-weight-bold">Apakah ada program affiliate?</h6>

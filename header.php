@@ -26,7 +26,7 @@
   <div class="collapse navbar-collapse justify-content-end mt-3 bRedOld" id="navbarSupportedContent">
     <ul class="navbar-nav pl-3">
       <li class="nav-item active">
-        <a class="nav-link h4 cWhite mt-2" href="https://member.fledigital.com/member-area/login/">LOGIN</a>
+        <a class="nav-link h4 cWhite mt-2" href="http://member.jagokeuangan.com/member-area/login/">LOGIN</a>
       </li>
       <li class="cWhite pr-3"><div class="dropdown-divider m-0"></div></li>
       <li class="nav-item">
@@ -38,7 +38,7 @@
     <div class="collapse navbar-collapse justify-content-end mt-3" id="navbarSupportedContent">
     <ul class="navbar-nav pl-3">
       <li class="nav-item active">
-        <a class="nav-link h4 cWhite" href="https://member.fledigital.com/member-area/login/">LOGIN <span class="sr-only">(current)</span></a>
+        <a class="nav-link h4 cWhite" href="http://member.jagokeuangan.com/member-area/login/">LOGIN <span class="sr-only">(current)</span></a>
       </li>
       <li class="cWhite"><span class="br cRed">|</span></li>
       <li class="nav-item">

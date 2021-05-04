@@ -2,7 +2,7 @@
 			<div class="container bRedOld">
 				<div class="row p-3 flex-column align-items-center">
 					<h6 class="cWhite">Powered By <a href="http://pramudiringga.com"><span class="cWhite">pramudiringga.com</span></a></h6>
-					<h6 class="cWhite">copyright &copy; <span class="cWhite">2020 - 2021</span><span> fledigital.com</span></h6>
+					<h6 class="cWhite">copyright &copy; <span class="cWhite">2021</span><span> jagokeuangan.com</span></h6>
 				</div>
 			</div>
 		</footer>
