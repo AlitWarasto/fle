@@ -20,13 +20,13 @@ endwhile; endif;
 </div>-->
 <style>
   #s1 {
-    background-image:linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%),url("<?php echo $siteurl;?>/wp-content/uploads/2021/04/gabung-bersama-fle-digital-sekarang.jpg");
+    background-image:linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%),url("<?php echo $siteurl;?>/wp-content/uploads/2021/05/gabung-bersama-fle-digital-sekarang.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     background-position: bottom;
   }
   #s8 {
-    background-image: url("<?php echo $siteurl;?>/wp-content/uploads/2020/05/image-bg-overlay.png");
+    background-image: url("<?php echo $siteurl;?>/wp-content/uploads/2021/05/image-bg-overlay.png");
     background-color: rgba(196,29,0,.77);
     background-position: center center;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@ endwhile; endif;
           Bisnis Anda<br>
           <span class="cOrange">Hanya 1,5 Jam</span><br>
           Pasti Bisa!!</h1>
-          <a class="d-flex justify-content-center" href="https://member.jagokeuangan.com/product/ecourse-fle-digital/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
+          <a class="d-flex justify-content-center" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
       </div>
     </div>
   </div>
@@ -81,23 +81,23 @@ endwhile; endif;
     <div class="row">
       <h3 class="col-md-12 h3 font-weight-bolder cRed text-center mt-3 mb-3">Jago Keuangan</h3>
       <h4 class="col-md-12 h3 font-weight-bolder cGrey text-center mt-1 mb-1">Solusi Belajar Finance, KILAT!</h4>
-      <p class="col-md-12 h5 font-weight-bolder cGrey text-center mt-1 mb-3">Sekarang waktunya belajar <br><span class="cRed font-weight-bold"JAGO KEUANGAN</span> <b>connected from anywhere</b></p>
+      <p class="col-md-12 h5 font-weight-bolder cGrey text-center mt-1 mb-3">Sekarang waktunya belajar <br><span class="cRed font-weight-bold">JAGO KEUANGAN</span> <b>connected from anywhere</b></p>
       <div class="col-md-4">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/everywhere-learning-scaled.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/everywhere-learning-scaled.jpg">
         <div class="col-md-12">
           <p class="h5 cRed text-center mt-3"><b>Materi Video</b></p>
           <p class="cGrey text-center">Belajar nyaman dari HP maupun Dekstop. Bisa rebahan, bisa diulang, bisa kapanpun dimanapun.</p>
         </div>
       </div>
       <div class="col-md-4">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/fle-digital-galeri.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/fle-digital-galeri.jpg">
         <div class="col-md-12">
           <p class="h5 cRed text-center mt-3"><b>Papper Work</b></p>
           <p class="cGrey text-center">Belajar cepat dengan metode: dengar, baca, tulis. Lebih cepat paham, lebih cepat diterapkan di Bisnis Anda.</p>
         </div>
       </div>
       <div class="col-md-4">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/call-center-operator-answering-clients-company-with-tech-support_97712-198.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/call-center-operator-answering-clients-company-with-tech-support_97712-198.jpg">
         <div class="col-md-12">
           <p class="h5 cRed text-center mt-3"><b>Asisten Jago Keuangan</b></p>
           <p class="cGrey text-center">Jangan khawatir, Asisten Jago Keuangan siap mendampingi Anda mengerjakan materi Keuangan.</p>
@@ -114,21 +114,21 @@ endwhile; endif;
         <div class="container bRedOld">
           <div class="people d-flex flex-column align-items-center">
             <div class="col-md-6 col-lg-4 item">
-              <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/pakkoko.png">
+              <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/pakkoko.png">
                 <h3 class="name">Koko Hadiono</h3>
                 <p class="title">Former Top Management Mc Donald's Indonesia</p>
                 <p class="description">Buat rekan-rekan UMKM yang ingin tumbuh dan scaleup. Menguasai ilmu manajemen keuangan itu sangat penting. Pengusaha sukses itu pasti menguasai ilmu finance. Kabar baiknya Jago Keuangan kini bisa dipelajari cukup dari HP. Jauh lebih fleksibel, aplikatif, dan lebih cepat. Good luck!
               </div>
             </div>
             <div class="col-md-6 col-lg-4 item">
-              <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/rendy-1.png">
+              <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/rendy-1.png">
                 <h3 class="name">Rendy Sipahutar</h3>
                 <p class="title">Manager PT. BUMA</p>
                 <p class="description">Online Learning Jago Keuangan ini keren, training finance untuk level manajemen jadi lebih efisien. Materinya mudah dipahami dengan cepat. Salah satu business skill yang harus dikuasai oleh profesional dan business owner. One of business skill you need to master.</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 item">
-              <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/adi.png">
+              <div class="box"><img class="rounded-circle" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/adi.png">
                 <h3 class="name">Adi Widjaja</h3>
                 <p class="title">Investor Profesional</p>
                 <p class="description">Bisnis yang menarik adalah bisnis yang memiliki laporan keuangan. Salah satu parameter bisnis profesional itu memiliki laporan keuangan. Dan investor hanya tertarik kepada bisnis yang memiliki laporan keuangan. In God we trust, others use data. Jago Keuangan ini solusi bagi Anda yang ingin belajar manajemen keuangan bisnis Anda secara Express.</p>
@@ -147,13 +147,13 @@ endwhile; endif;
       <div id="s5sw" class="swiper-container mt-3 mb-3">
         <div class="swiper-wrapper bGrey">
           <div class="swiper-slide s5sw">
-            <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-20-at-14.44.46.jpeg">
+            <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-20-at-14.44.46.jpeg">
           </div>
           <div class="swiper-slide s5sw">
-            <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-20-at-14.44.45.jpeg">
+            <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-20-at-14.44.45.jpeg">
           </div>
           <div class="swiper-slide s5sw">
-            <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-20-at-14.44.45-1.jpeg">
+            <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-20-at-14.44.45-1.jpeg">
           </div>
         </div>
         <!-- Add Pagination -->
@@ -171,19 +171,19 @@ endwhile; endif;
     <div class="row">
       <h3 class="col-md-12 text-center mt-4 mb-5 font-weight-bolder fPoppins">Untuk Siapa Jago Keuangan <span class="cRed">JAGO KEUANGAN</span> ini dibuat?</h3>
       <div class="col-md-3">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/mbak-cantik.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/mbak-cantik.jpg">
         <h5 class="text-center cGrey mt-2 mb-4">Anda yang mengembangkan usaha</h5>
       </div>
       <div class="col-md-3">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/martabak-alit.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/martabak-alit.jpg">
         <h5 class="text-center cGrey mt-2 mb-4">Anda yang memulai usaha</h5>
       </div>
       <div class="col-md-3">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/download-1.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/download-1.jpg">
         <h5 class="text-center cGrey mt-2 mb-4">Anda yang pusing mengelola usaha</h5>
       </div>
       <div class="col-md-3">
-        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/finance.jpg">
+        <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/finance.jpg">
         <h5 class="text-center cGrey mt-2 mb-4">Siapapun yang ingin belajar manajemen keuangan bisnis</h5>
       </div>
     </div>
@@ -197,25 +197,25 @@ endwhile; endif;
         <div class="swiper-wrapper bGrey s7sw">
           <div class="swiper-slide">
             <div class="s7ssd">
-              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-23-at-10.03.01.jpeg">
+              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-23-at-10.03.01.jpeg">
               <span class="mt-3">Lena<br>Distributor AC</span>
             </div>
           </div>
           <div class="swiper-slide">
             <div class="s7ssd">
-              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-23-at-09.51.26.jpeg">
+              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-23-at-09.51.26.jpeg">
               <span class="mt-3">Aby<br> Audina Hijab</span>
             </div>
           </div>
           <div class="swiper-slide">
             <div class="s7ssd">
-              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-23-at-09.41.51.jpeg">
+              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-23-at-09.41.51.jpeg">
               <span class="mt-3">Sendy<br>Konsultan Resto</span>
             </div>
           </div >
           <div class="swiper-slide">
             <div class="s7ssd">
-              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-23-at-09.41.50.jpeg">
+              <img class="img-fluid" loading="lazy" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/WhatsApp-Image-2020-05-23-at-09.41.50.jpeg">
               <span class="mt-3">Fanny<br>Mr. Suprek</span>
             </div>
           </div>
@@ -225,7 +225,7 @@ endwhile; endif;
       </div>
       <div class="mt-5">
         <div class="col-md-6 mb-5">
-          <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/sale.jpg">
+          <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/sale.jpg">
           <h3 class="fPoppins text-center font-weight-bold mt-3">HARGA SPESIAL</h3>
           <h3 class="col fPoppins text-center font-weight-bold mt-1">Pra - Launching!</h3>
         </div>
@@ -235,9 +235,9 @@ endwhile; endif;
           <hr>
           <h1 class="hc text-center">Rp 990.000,-</h1>
           <p class="hd hc text-center">Rp 590.000,-</p>
-          <a class="d-flex justify-content-center" href="https://member.jagokeuangan.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
+          <a class="d-flex justify-content-center" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
           <span class="d-flex justify-content-center">
-            <img class="col-3 img-fluid mt-3" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/logo-bca.jpg" style="opacity: .58;">
+            <img class="col-3 img-fluid mt-3" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/logo-bca.jpg" style="opacity: .58;">
           </span>
         </div>
       </div>
@@ -251,15 +251,15 @@ endwhile; endif;
         <h3 class="h4 fPoppins font-weight-bolder cWhite text-center" style="line-height: 1.5em;">Berikut Alasan Kuat, Kenapa Anda Harus Bergabung dengan <brJAGO KEUANGAN Segera</h3>
       </div>
       <div class="col-md-3 pt-2 pb-3">
-        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/Tanda-tanda-pengusaha-sukses-1.jpg"></img>
+        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/Tanda-tanda-pengusaha-sukses-1.jpg"></img>
         <p class="h5 text-center cWhite mt-3">Semua pengusaha sukses menguasai manajemen keuangan</p>
       </div>
       <div class="col-md-3 pt-2 pb-3">
-        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/mbak-lala.jpg"></img>
+        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/mbak-lala.jpg"></img>
         <p class="h5 text-center cWhite mt-3">Semakin cepat belajar, semakin cepat praktek, semakin cepat sukses</p>
       </div>
       <div class="col-md-3 pt-2 pb-3">
-        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/Jurnal_Blog_10_Cara_Memulai_Bisnis_Rumahan_Agar_Cepat_Sukses-01-1.png"></img>
+        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/Jurnal_Blog_10_Cara_Memulai_Bisnis_Rumahan_Agar_Cepat_Sukses-01-1.png"></img>
         <p class="h5 text-center cWhite mt-3">Bisnis Autopilot, dikontrol dari Kinerja Keuangannya. Segera buat Bisnis Anda Autopilot</p>
       </div>
     </div>
@@ -273,17 +273,17 @@ endwhile; endif;
       <h2 class="col-md-12 fPoppins font-weight-bolder text-center mb-5 mt-2">Bagi Anda Yang <span class="cRed">Bergabung Hari Ini</span>, Dapatkan Bonus Tambahan:</h2>
       <div class="d-flex flex-column align-items-center">
         <div class="col-10 box2 d-flex flex-column align-items-center mb-3 p-5">
-          <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/5.png"></img></div>
+          <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/5.png"></img></div>
           <h4 class="h5 mt-3 fPoppins font-weight-bold text-center">Template Proyeksi Keuangan Bisnis</h4>
           <p class="col d-flex justify-content-center"><span>Rp. </span><span>500.000,-</span></p>
         </div>
         <div class="col-10 box2 d-flex flex-column align-items-center mb-3 p-5">
-          <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/5.png"></img></div>
+          <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/5.png"></img></div>
           <h4 class="h5 mt-3 fPoppins font-weight-bold text-center">25 checklist Audit Kinerja Keuangan Bisnis</h4>
           <p class="col d-flex justify-content-center"><span>Rp. </span><span>200.000,-</span></p>
         </div>
         <div class="col-10 box2 d-flex flex-column align-items-center mb-3 p-5">
-          <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/5.png"></img></div>
+          <div class="col-8"><img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/5.png"></img></div>
           <h4 class="h5 mt-3 fPoppins font-weight-bold text-center">Teknik recruitment team Accounting yang ampuh!</h4>
           <p class="col d-flex justify-content-center"><span>Rp. </span><span>500.000,-</span></p>
         </div>
@@ -298,7 +298,7 @@ endwhile; endif;
   <div class="container">
     <div class="row">
       <div class="col-md-6 mt-5">
-        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/gumun1.jpg">
+        <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/gumun1.jpg">
       </div>
       <div class="col-md-6 box mt-5">
           <h3 class="h2 fPoppins text-center font-weight-bold mt-3 mb-5">BAYANGKAN JIKA ANDA HARUS:</h3>
@@ -306,15 +306,15 @@ endwhile; endif;
           <h3 class="h2 mt-5 mb-5 fPoppins text-center font-weight-bolder">HARGA SPESIAL <br><span class="cRed">Pra-Launching </span></h3>
           <h1 class="hc text-center">Rp 990.000,-</h1>
           <p class="hd hc text-center">Rp. 590.000,-</p>
-          <a class="d-flex justify-content-center" href="https://member.jagokeuangan.com/product/ecourse-fle-digital/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
+          <a class="d-flex justify-content-center" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
           <span class="d-flex justify-content-center">
-            <img class="col-3 img-fluid mt-3" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/04/logo-bca.jpg" style="opacity: .58;">
+            <img class="col-3 img-fluid mt-3" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/logo-bca.jpg" style="opacity: .58;">
           </span>
         </div>
         <div class="d-flex justify-content-center align-items-center">
           <div class="boxB col-10 d-flex justify-content-center flex-column align-items-center mt-5 mb-5 p-0">
             <div class="col-md-3 mt-3">
-              <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2020/05/mbg.png">
+              <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/mbg.png">
             </div>
             <div class="col-md-12">
               <h3 class="h2 mt-5 mb-5 fPoppins text-center font-weight-bolder">Garansi Uang Kembali</h3>
