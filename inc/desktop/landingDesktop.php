@@ -60,7 +60,7 @@ endwhile; endif;
           </p>
         </div>
         <div class="d-flex justify-content-center">
-          <a style="position: absolute;" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
+          <a style="position: absolute;" href="#hargaSPecial"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
         </div>
       </div>
     </div>
@@ -238,7 +238,7 @@ endwhile; endif;
         <!-- Add Pagination -->
         <div class="swiper-pagination swap"></div>
       </div>
-      <div class="mt-5 row">
+      <div id="hargaSPecial" class="mt-5 row">
         <div class="col-md-6">
           <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/sale.jpg">
           <h3 class="fPoppins text-center font-weight-bold mt-3">HARGA SPESIAL</h3>
@@ -250,7 +250,7 @@ endwhile; endif;
           <hr>
           <h1 class="hc text-center">Rp 990.000,-</h1>
           <p class="hd hc text-center">Rp. 590.000,-</p>
-          <a class="row justify-content-center" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><btn class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
+          <a class="row justify-content-center" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><btn id="btnGabung1" class="btn btn-primary pt-3 pb-3 pr-4 pl-4 fs20" role="button"> Gabung Sekarang</btn></a>
           <span class="row justify-content-center">
             <img class="col-lg-3 img-fluid mt-5" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/logo-bca.jpg" style="opacity: .58;">
           </span>

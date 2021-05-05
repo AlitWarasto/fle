@@ -46,7 +46,7 @@ endwhile; endif;
           Bisnis Anda<br>
           <span class="cOrange">Hanya 1,5 Jam</span><br>
           Pasti Bisa!!</h1>
-          <a class="d-flex justify-content-center" href="http://member.jagokeuangan.com/product/jago-keuangan-basic/"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
+          <a class="d-flex justify-content-center" href="#hargaSpecial"><button class="btn btn-primary cWhite btnG">Gabung Sekarang<span> </span><i class="fas fa-caret-right"></i></button></a>
       </div>
     </div>
   </div>
@@ -192,7 +192,7 @@ endwhile; endif;
 <section id="s7" class="bGrey">
   <div class="container">
     <div class="row">
-      <h3 class="col-md-12 text-center mt-3 mb-3 font-weight-bolder fPoppins">Cerita dari mereka yang sudah belajar <span class="cRed"JAGO KEUANGAN</span></h3>
+      <h3 class="col-md-12 text-center mt-3 mb-3 font-weight-bolder fPoppins">Cerita dari mereka yang sudah belajar <span class="cRed">JAGO KEUANGAN</span></h3>
       <div id="sWA" class="swiper-container mt-3 mb-3">
         <div class="swiper-wrapper bGrey s7sw">
           <div class="swiper-slide">
@@ -223,7 +223,7 @@ endwhile; endif;
         <!-- Add Pagination -->
         <div class="swiper-pagination swap"></div>
       </div>
-      <div class="mt-5">
+      <div id="hargaSpecial" class="mt-5">
         <div class="col-md-6 mb-5">
           <img class="img-fluid" src="<?php echo $siteurl; ?>/wp-content/uploads/2021/05/sale.jpg">
           <h3 class="fPoppins text-center font-weight-bold mt-3">HARGA SPESIAL</h3>
